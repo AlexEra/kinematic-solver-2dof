@@ -10,6 +10,6 @@ Change in main.py program next parameters (modified Denavit-Hartenberg's paramet
 2. beta - twist angles;
 3. thetas - joint angles.
 
-In kinematic_solver.py change all functions to your decison. If your manipulator is 3DoF too, you may not modify sho_robot() function.
+In kinematic_solver.py change all functions to your decison. If your manipulator is 3DoF too, that show_robot() function isn't modify.
 
 Function get_table() create lists with Denavit-Hartenberg's parameters, which corresponds to table.
