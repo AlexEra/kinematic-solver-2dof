@@ -1,5 +1,5 @@
 # kinematic-solver-3dof
-kinematic solver for 3dof mainpulator with revolute joints
+kinematic solver for 3dof manipulator with revolute joints
 
 # Using
 main.py contains initial parameters, such as: link lengths, twist angles and joint angles.
